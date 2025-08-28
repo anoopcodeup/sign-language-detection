@@ -49,8 +49,8 @@ pip install -r requirements.txt
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/srivastava491/SignToWord.git](https://github.com/srivastava491/SignToWord.git)
-cd SignToWord
+git clone https://github.com/anoopcodeup/sign-language-detection.git
+cd sign-language-detection
 ```
 
 ### 2. Install Dependencies
